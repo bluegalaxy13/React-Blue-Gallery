@@ -42,17 +42,17 @@ A feature-rich, responsive gallery application built using **Node.js** and **Rea
    http://localhost:3000
 
    ## File Structure
-   - **gallery-app/
-   - **├── backend/       # Node.js backend
-   - **│   ├── server.js  # Main server file
-   - **│   ├── public/  
-   - **│   └── node_models/    # Database models
-   - **├── frontend/      # React.js frontend
-   - **│   ├── src/       # React source code
-   - **│   ├── public/    # Static files
-   - **│   └── package.json
-   - **├── README.md      # Project documentation
-   - **└── .gitignore     # Files to ignore in version control
+   - gallery-app/
+   - ├── backend/       # Node.js backend
+   - │   ├── server.js  # Main server file
+   - │   ├── public/  
+   - │   └── node_models/    # Database models
+   - ├── frontend/      # React.js frontend
+   - │   ├── src/       # React source code
+   - │   ├── public/    # Static files
+   - │   └── package.json
+   - ├── README.md      # Project documentation
+   - └── .gitignore     # Files to ignore in version control
 
    ## License
    This project is licensed under the MIT License.
